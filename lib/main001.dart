@@ -3,8 +3,6 @@ import 'package:flutter/services.dart';
 import 'package:tflite/tflite.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
-import 'package:flutter/widgets.dart';
-import 'dart:ui' show lerpDouble;
 
 void main() {
   runApp(const MyApp());
